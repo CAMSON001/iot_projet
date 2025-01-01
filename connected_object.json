@@ -1,0 +1,16 @@
+[
+    {
+        "id": "kgsghhoaNhzlkln",
+        "name": "Dumbbell Pro",
+        "weight" : 25,
+        "ip": "192.168.11.104",
+        "port": 12345
+    },
+    {
+        "id":"ShjdjdakGS548sk" ,
+        "name": "Smart Dumbbell",
+        "weight" : 25,
+        "ip": "192.168.11.4",
+        "port": 12345
+    }
+]
